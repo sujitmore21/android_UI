@@ -1,1 +1,1 @@
-include ':app'
+include ':app', ':splash_screen_demo', ':sidenavigation', ':circular_image_view'
